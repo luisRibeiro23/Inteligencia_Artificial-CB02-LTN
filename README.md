@@ -1,1 +1,3 @@
-# Inteligencia_Artificial-CB02-LTN
+# Atividade TutorialLTN
+
+## Membros: Kaio Cavalcante de Carvalho, Luis Henrique
